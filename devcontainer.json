@@ -1,0 +1,11 @@
+{
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "aliffian425/web1-2024": {
+          "permissions": "write-all"
+        }
+      }
+    }
+  }
+}
